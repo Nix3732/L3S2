@@ -1,7 +1,8 @@
 ﻿#include <iostream>
 #include "string.hpp"
+
 int main()
-{   
+{
     str s1("adsaf");
     str s2("qweqwr");
     s1.out();

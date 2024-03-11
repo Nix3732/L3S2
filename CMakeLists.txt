@@ -7,4 +7,4 @@ set(CMAKE_CXX_STANDART 17)
 set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
 
-add_executable("${PROJECT_NAME}" L3.cpp string.hpp string.сpp)
+add_executable("${PROJECT_NAME}" L3.cpp string.hpp string.cpp)
